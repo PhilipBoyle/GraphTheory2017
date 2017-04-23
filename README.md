@@ -9,7 +9,8 @@ You can see the final graph by opening the "FinalGraph.png" file.
 
 I chose to use the following structure:
 
-Course   --HAS-->     Module --LAB/LECTURE--> Room --TIME--> Day
+Course   --HAS-->     Module --LAB/LECTURE--> Room --TIME--> Day.
+
 Lecturer --Teaches-->
 
 I named and implemented the student groups in the LAB relationship, for example "Group C" can be found by looking for "LAB_C".
