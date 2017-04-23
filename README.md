@@ -6,6 +6,7 @@ I was tasked to create a database using data from the GMIT timetable.
 I obtained the data manually using my own timetable for reference. 
 
 You can see the final graph by opening the "FinalGraph.png" file. 
+My hand-written design plans can be foun in the "Design Plans.pdf" file.
 
 I chose to use the following structure:
 
